@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieClip</string>
+    <string name="shahrukh">Shahrukh Khan</string>
+    <string name="ranveer">Ranveer Singh</string>
+    <string name="ajay">Ajay Devgan</string>
+    <string name="karan_johar">Karan Johar</string>
+    <string name="rohit_shetty">Rohit Shetty</string>
+    <string name="sanjay_leela">Sanjay Leela</string>
+    <string name="director">Director</string>
+    <string name="actor">Actor</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_results_found">No Results Found</string>
+    <string name="go_back">Go Back</string>
+    <string name="recents">Recents</string>
+    <string name="clear_recents">Clear Recents</string>
+</resources>

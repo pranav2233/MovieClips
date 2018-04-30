@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actor_array">
+        <item>@string/shahrukh</item>
+        <item>@string/ranveer</item>
+        <item>@string/ajay</item>
+    </string-array>
+
+    <string-array name="director_array">
+        <item>@string/karan_johar</item>
+        <item>@string/rohit_shetty</item>
+        <item>@string/sanjay_leela</item>
+    </string-array>
+</resources>
